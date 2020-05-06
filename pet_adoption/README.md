@@ -9,9 +9,9 @@ This folder contains the work for my first capstone project. The purpose is to a
 
 The file structure is as follows:
 
-- Notebook: PetAdoptionPrediction.ipynb (Notebook is broken down into Data Wrangling, EDA, and ML sections)
-- Presentation: PetAdoptionPredictionPresentation_IThisted.pdf
-- Report: Pet Adoption Prediction Final Report.pdf - Report
+- *Notebook*: PetAdoptionPrediction.ipynb (Notebook is broken down into Data Wrangling, EDA, and ML sections)
+- *Presentation*: PetAdoptionPredictionPresentation_IThisted.pdf
+- *Report:* Pet Adoption Prediction Final Report.pdf - Report
 
 Data sources: 
 - PetFinder Data [https://www.kaggle.com/c/petfinder-adoption-prediction/data](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
